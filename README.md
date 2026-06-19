@@ -1,2 +1,4 @@
-# VsCodeAX_Agents
-This repo contains VsCode agents created for AX 2012 R3, you can make changes and adapt it to d365 as well
+# ADO-agent in .\.github\agents\
+# AX-agent in .\.github\agents\
+# copilot-instructions in .\.github\ or C:\Users\<userid>
+# mcp.json in .\.vscode\ (for vscode)
