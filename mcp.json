@@ -1,7 +1,7 @@
 {
   "servers": {
     "ado-remote-mcp": {
-      "url": "https://mcp.dev.azure.com/dgsit",
+      "url": "https://mcp.dev.azure.com/[COMPANYNAME]",
       "type": "http"
     },
   "workiq": {
